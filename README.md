@@ -27,7 +27,6 @@ Python 3.x
 
 * **Prasant Sudhakaran** - [prasants](https://github.com/prasants)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -35,4 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Many fantastic posts on Stackoverflow, linked within the Notebooks.
+* Many fantastic posts on [Stackoverflow](http://stackoverflow.com), linked within the Notebooks.
